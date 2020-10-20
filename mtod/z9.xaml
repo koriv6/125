@@ -1,0 +1,16 @@
+﻿<Window x:Class="mtod.z9"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="_9z" Height="250.568" Width="389.631" ResizeMode="NoResize" Icon="res\1.gif">
+    <Window.Background>
+        <ImageBrush ImageSource="res\constanta1.jpg" Stretch="UniformToFill" TileMode="None" />
+    </Window.Background>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label FontSize="16" Foreground="White" Content="Введите число для &#xD;&#xA;замены" Margin="23,58,172,107" />
+        <TextBox Name="el" Height="26" HorizontalAlignment="Left" VerticalAlignment="Top" Width="108" Margin="217,66,0,0" Text="5"/>
+        <Button Content="Ок" Background="Beige" Margin="125,150,0,0" HorizontalAlignment="Left" Width="111" Height="29" VerticalAlignment="Top" Click="Button_Click" />
+    </Grid>
+</Window>

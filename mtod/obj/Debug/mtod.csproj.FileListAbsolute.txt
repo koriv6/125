@@ -1,0 +1,94 @@
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\bin\Debug\mtod.exe.config
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\bin\Debug\mtod.exe
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\bin\Debug\mtod.pdb
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\obj\Debug\mtod.csprojResolveAssemblyReference.cache
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\obj\Debug\MainWindow.baml
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\obj\Debug\MainWindow.g.cs
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\obj\Debug\App.g.cs
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\obj\Debug\mtod_MarkupCompile.cache
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\obj\Debug\mtod.g.resources
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\obj\Debug\mtod.Properties.Resources.resources
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\obj\Debug\mtod.csproj.GenerateResource.Cache
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\obj\Debug\mtod.exe
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\obj\Debug\mtod.pdb
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\obj\Debug\Metod1.baml
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\obj\Debug\Metod1.g.cs
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\obj\Debug\_4z.baml
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\obj\Debug\_5z.baml
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\obj\Debug\_4z.g.cs
+c:\users\maxim\documents\visual studio 2013\Projects\mtod\mtod\obj\Debug\_5z.g.cs
+C:\Max\Универ\mtod\mtod\bin\Debug\mtod.exe.config
+C:\Max\Универ\mtod\mtod\obj\Debug\mtod.exe
+C:\Max\Универ\mtod\mtod\obj\Debug\mtod.pdb
+C:\Max\Универ\mtod\mtod\bin\Debug\mtod.exe
+C:\Max\Универ\mtod\mtod\bin\Debug\mtod.pdb
+C:\Max\Универ\mtod\mtod\obj\Debug\mtod.csprojResolveAssemblyReference.cache
+C:\Max\Универ\mtod\mtod\obj\Debug\MainWindow.baml
+C:\Max\Универ\mtod\mtod\obj\Debug\Metod1.baml
+C:\Max\Универ\mtod\mtod\obj\Debug\_4z.baml
+C:\Max\Универ\mtod\mtod\obj\Debug\_5z.baml
+C:\Max\Универ\mtod\mtod\obj\Debug\lab3.g.cs
+C:\Max\Универ\mtod\mtod\obj\Debug\MainWindow.g.cs
+C:\Max\Универ\mtod\mtod\obj\Debug\Metod1.g.cs
+C:\Max\Универ\mtod\mtod\obj\Debug\_4z.g.cs
+C:\Max\Универ\mtod\mtod\obj\Debug\_5z.g.cs
+C:\Max\Универ\mtod\mtod\obj\Debug\App.g.cs
+C:\Max\Универ\mtod\mtod\obj\Debug\mtod_MarkupCompile.cache
+C:\Max\Универ\mtod\mtod\obj\Debug\mtod_MarkupCompile.lref
+C:\Max\Универ\mtod\mtod\obj\Debug\lab3.baml
+C:\Max\Универ\mtod\mtod\obj\Debug\mtod.g.resources
+C:\Max\Универ\mtod\mtod\obj\Debug\mtod.Properties.Resources.resources
+C:\Max\Универ\mtod\mtod\obj\Debug\mtod.csproj.GenerateResource.Cache
+C:\Max\Универ\mtod\mtod\obj\Debug\hist.g.cs
+C:\Max\Универ\mtod\mtod\obj\Debug\hist.baml
+C:\Max\Универ\mtod\mtod\obj\Debug\lab4.g.cs
+C:\Max\Универ\mtod\mtod\obj\Debug\lab4.baml
+D:\mtod\mtod\bin\Debug\mtod.exe.config
+D:\mtod\mtod\obj\Debug\mtod.exe
+D:\mtod\mtod\obj\Debug\mtod.pdb
+D:\mtod\mtod\bin\Debug\mtod.exe
+D:\mtod\mtod\bin\Debug\mtod.pdb
+D:\mtod\mtod\obj\Debug\mtod.csprojResolveAssemblyReference.cache
+D:\mtod\mtod\obj\Debug\MainWindow.baml
+D:\mtod\mtod\obj\Debug\_4z.baml
+D:\mtod\mtod\obj\Debug\_5z.baml
+D:\mtod\mtod\obj\Debug\hist.g.cs
+D:\mtod\mtod\obj\Debug\MainWindow.g.cs
+D:\mtod\mtod\obj\Debug\_4z.g.cs
+D:\mtod\mtod\obj\Debug\_5z.g.cs
+D:\mtod\mtod\obj\Debug\App.g.cs
+D:\mtod\mtod\obj\Debug\mtod_MarkupCompile.cache
+D:\mtod\mtod\obj\Debug\mtod_MarkupCompile.lref
+D:\mtod\mtod\obj\Debug\hist.baml
+D:\mtod\mtod\obj\Debug\mtod.g.resources
+D:\mtod\mtod\obj\Debug\mtod.Properties.Resources.resources
+D:\mtod\mtod\obj\Debug\mtod.csproj.GenerateResource.Cache
+D:\mtod\mtod\obj\Debug\z8.baml
+D:\mtod\mtod\obj\Debug\z9.baml
+D:\mtod\mtod\obj\Debug\z8.g.cs
+D:\mtod\mtod\obj\Debug\z9.g.cs
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\bin\Debug\mtod.exe.config
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\bin\Debug\mtod.exe
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\bin\Debug\mtod.pdb
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\mtod.csprojAssemblyReference.cache
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\MainWindow.baml
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\z8.baml
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\z9.baml
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\_4z.baml
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\_5z.baml
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\hist.g.cs
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\MainWindow.g.cs
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\z8.g.cs
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\z9.g.cs
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\_4z.g.cs
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\_5z.g.cs
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\App.g.cs
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\mtod_MarkupCompile.cache
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\mtod_MarkupCompile.lref
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\hist.baml
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\mtod.g.resources
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\mtod.Properties.Resources.resources
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\mtod.csproj.GenerateResource.cache
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\mtod.csproj.CoreCompileInputs.cache
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\mtod.exe
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\all\mtod\mtod\obj\Debug\mtod.pdb
